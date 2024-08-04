@@ -1,0 +1,3 @@
+[workspace]
+members = ["pnn", "pnn_test"]
+resolver = "2"
